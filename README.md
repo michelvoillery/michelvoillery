@@ -1,4 +1,4 @@
-# Hi, I’m Michel 👋 🇳🇴👨🏻‍💻🇫🇷
+# Hi, I’m Michel 👋
 
 <!--
 **michelvoillery/michelvoillery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
